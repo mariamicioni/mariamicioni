@@ -12,12 +12,12 @@ A dedicated and enthusiastic Web Developer, currently living in Switzerland
 
 👯 I’m looking to collaborate on web development projects.
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maria-micioni/?locale=de_DE)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maria-micioni/?locale=en_US)
 
 ⚡ Fun fact: I love exploring new places and cultures, and I'm a polyglot who speaks multiple languages!
 
 ### Connect with me:
-[LinkedIn](https://www.linkedin.com/in/maria-micioni/?locale=de_DE)
+[LinkedIn](https://www.linkedin.com/in/maria-micioni/?locale=en_US)
 [Troopl](https://troopl.com/mariamicioni)
 
 ![212834](https://user-images.githubusercontent.com/64316347/232320674-3a74de36-7307-4509-a4ad-3c462961a7f2.gif)
