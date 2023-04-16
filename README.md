@@ -20,7 +20,7 @@ A dedicated and enthusiastic Web Developer, currently living in Switzerland
 [LinkedIn](https://www.linkedin.com/in/maria-micioni/?locale=de_DE)
 [Troopl](https://troopl.com/mariamicioni)
 
-![Dandelion GIF](https://c.tenor.com/2Zf2tD0AVxIAAAAC/dandelion-wind.gif)
+<img src="https://c.tenor.com/2Zf2tD0AVxIAAAAC/dandelion-wind.gif" width="250" height="250" />
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
