@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Maria Micioni
 
-A dedicated and enthusiastic Web Developer, currently living in Switzerland
+A dedicated and enthusiastic Web Developer, living in Switzerland
 
 😄 Pronouns: Maria
 
@@ -14,7 +14,7 @@ A dedicated and enthusiastic Web Developer, currently living in Switzerland
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maria-micioni/?locale=en_US)
 
-⚡ Fun fact: I love exploring new places and cultures, and I'm a polyglot who speaks multiple languages!
+⚡ Fun fact: I love exploring new places and cultures, and I'm a polyglot who speaks several languages!
 
 ### Connect with me:
 [LinkedIn](https://www.linkedin.com/in/maria-micioni/?locale=en_US)
