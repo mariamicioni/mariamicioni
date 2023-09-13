@@ -2,9 +2,6 @@
 
 # Hi 👋, I'm Maria Micioni
 
-A dedicated and enthusiastic Web Developer, living in Switzerland
-
-😄 Pronouns: Maria
 
 🔭 I’m currently leveraging my skills in HTML, CSS, JavaScript, Ruby, Ruby-on-Rails and various frameworks to create beautiful, user-friendly websites and applications.
 
