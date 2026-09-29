@@ -1,6 +1,6 @@
 ### Hi, I'm Maria Micioni 👋
 
-🎓 **BSc Computer Science** (Specialisation in Artificial Intelligence) at **HSLU**  
+🎓 **BSc Computer Science student** (Specialisation in Artificial Intelligence) at **HSLU**  
 🤖 Focusing on **NLP, LLMs, and MLOps**  
 💼 Background in **B2B operations, data workflows, and web development**  
 🌍 Based in Switzerland • Multilingual (EN / DE / IT / FR)
